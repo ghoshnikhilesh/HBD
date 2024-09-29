@@ -15,7 +15,7 @@
 ╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝    
                                                                     
 ```
-# Happy Birthday! - [Coder's way of wishing](https://medium.com/@vinitshahdeo/coders-way-of-wishing-happy-birthday-1fe457e7a2ba)
+# Happy Birthday "Patha"my best friend! - [Coder's way of wishing](https://medium.com/@vinitshahdeo/coders-way-of-wishing-happy-birthday-1fe457e7a2ba)
 [![Happy Birthday](https://img.shields.io/badge/Happy-Birthday-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/HBD/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](http://codeastrike.000webhostapp.com/hbd/)
 [![Check Blog](https://img.shields.io/badge/Check-Blog-orange.svg?style=for-the-badge)](https://medium.com/@vinitshahdeo/coders-way-of-wishing-happy-birthday-1fe457e7a2ba)
 
